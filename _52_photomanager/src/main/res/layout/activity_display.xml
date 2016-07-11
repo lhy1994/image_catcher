@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    android:id="@+id/ll_display"
+     >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_display"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        ></android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:drawableTop="@android:drawable/ic_menu_delete"
+            android:text="删除"
+            android:textColor="@android:color/holo_blue_bright" 
+            android:onClick="delete"
+            />
+         <Button
+            android:id="@+id/btn_setw"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@android:drawable/ic_menu_manage"
+            android:text="设置壁纸"
+            android:onClick="setw"
+            android:textColor="@android:color/holo_blue_bright" />
+          <Button
+            android:id="@+id/btn_edit"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@android:drawable/ic_menu_gallery"
+            android:text="编辑"
+            android:textColor="@android:color/holo_blue_bright"
+            android:onClick="edit" />
+          <Button
+            android:id="@+id/btn_rename"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@android:drawable/ic_menu_edit"
+            android:text="重命名"
+            android:textColor="@android:color/holo_blue_bright"
+            android:onClick="rename" />
+         
+    </LinearLayout>
+
+</LinearLayout>

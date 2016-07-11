@@ -1,0 +1,3 @@
+include ':aphidFlipViewLibrary'
+include ':slidingMenuLibrary'
+include ':_52_photomanager'

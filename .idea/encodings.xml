@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/CatchFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/DisplayActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/EditActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/ManageFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/SearchFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/ZipaiFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/utils/CatchImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_52_photomanager/src/main/java/com/lhyscode/photomanager/view/ZoomImageView.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

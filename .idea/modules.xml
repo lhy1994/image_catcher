@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/52_photomanager1.iml" filepath="$PROJECT_DIR$/52_photomanager1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_52_photomanager/_52_photomanager.iml" filepath="$PROJECT_DIR$/_52_photomanager/_52_photomanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" filepath="$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" filepath="$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" />
+    </modules>
+  </component>
+</project>
