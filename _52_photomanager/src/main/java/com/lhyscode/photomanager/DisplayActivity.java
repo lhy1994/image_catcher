@@ -26,6 +26,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.Window;
 import android.widget.EditText;
 import android.widget.Toast;
+import android.widget.VideoView;
 
 public class DisplayActivity extends Activity {
 
@@ -38,6 +39,7 @@ public class DisplayActivity extends Activity {
 	private DataBaseUtils dataBaseUtils;
 	private int height;
 	private int width;
+	private VideoView videoView;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
